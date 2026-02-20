@@ -1,11 +1,9 @@
 {
-  "name": "bakend",
+  "name": "backend",
   "version": "1.0.0",
-  "description": "",
+  "description": "Backend con Express desplegado en Vercel",
   "main": "server.js",
-  "scripts": {
-    "start": "node server.js"
-  },
+  "scripts": {},
   "keywords": [],
   "author": "",
   "license": "ISC",
